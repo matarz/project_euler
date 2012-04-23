@@ -1,0 +1,1 @@
+This is an attempt at solving the problems given at [projecteuler.net](http://projecteuler.net/). The website provides a rich list of computer programming problems aimed at people with some math/programming skills.
