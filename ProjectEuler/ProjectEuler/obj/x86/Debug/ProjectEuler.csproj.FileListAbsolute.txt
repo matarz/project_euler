@@ -1,0 +1,5 @@
+D:\Programming\GitHub\project_euler\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe
+D:\Programming\GitHub\project_euler\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.pdb
+D:\Programming\GitHub\project_euler\ProjectEuler\ProjectEuler\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\GitHub\project_euler\ProjectEuler\ProjectEuler\obj\x86\Debug\ProjectEuler.exe
+D:\Programming\GitHub\project_euler\ProjectEuler\ProjectEuler\obj\x86\Debug\ProjectEuler.pdb
