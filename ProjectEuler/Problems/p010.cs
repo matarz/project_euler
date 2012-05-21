@@ -7,15 +7,12 @@ namespace ProjectEuler.Problems
 {
     class p010
     {
-        static public void Show()
-        {
+        /*************************** The Problem ****************************
+            The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
 
-            string Problem = "The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.\n" + 
-                             "Find the sum of all the primes below two million.\n\n";
+            Find the sum of all the primes below two million.
+        ***********************************************************************/
 
-            Console.Write("Problem: \n"+Problem);
-        }
-        
         static public void Solve(){
             long PrimesBelow = 2000000;
             List<int> Primes = Tools.PrimesBelowNumber(PrimesBelow);

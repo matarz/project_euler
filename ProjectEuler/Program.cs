@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using ProjectEuler.Problems;
+using System.Diagnostics;
 
 namespace ProjectEuler
 {
@@ -10,8 +11,12 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-            p010.Show();
+            Stopwatch Timer = new Stopwatch();
+
+            Timer.Start();
             p010.Solve();
+            Timer.Stop();
+            Console.WriteLine("Running time: {0}", Timer.Elapsed);
         }
     }
 }
